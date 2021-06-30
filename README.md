@@ -4,6 +4,7 @@
 Поддерживается 4 операции: add, substract, multiply и divide.
 
 Примеры:
+
 	$c1 = new Complex([1.23,2.11]);
 	
 	try{$c2 = new Complex('-4,231+1,112i');}
